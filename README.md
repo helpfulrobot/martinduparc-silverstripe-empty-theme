@@ -1,4 +1,4 @@
 silverstripe-empty-theme
 ========================
 
-Empty boilerplate theme for SilverStripe
+Empty boilerplate theme for SilverStripe using TypeScript and Sass
