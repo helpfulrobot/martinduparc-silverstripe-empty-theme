@@ -1,0 +1,17 @@
+{
+    "name": "martinduparc/silverstripe-empty-theme",
+    "description": "Empty boilerplate theme for SilverStripe 3.1",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Martin Duparc",
+            "homepage": "http://martinduparc.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": "3.1.*"
+    }
+}
